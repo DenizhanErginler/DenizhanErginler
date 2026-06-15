@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Denizhan Erginler's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenizhanErginler&show_icons=true&hide=contribs,prs&theme=midnight-purple&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Denizhan Erginler's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenizhanErginler&show_icons=true&hide=contribs,prs&bg_color=45,2e1fae,012169,ae12ae&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DenizhanErginler/DenizhanErginler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
