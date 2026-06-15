@@ -5,8 +5,8 @@
 Sophomore Computer Engineering student at MEF University, minoring in Data Science & Artificial Intelligence.
 
 #
-![](https://komarev.com/ghpvc/?username=DenizhanErginler&color=6b22b8&style=for-the-badge)
-#
+![](https://komarev.com/ghpvc/?username=DenizhanErginler&color=6b22b8&style=for-the-badge) 
+##
 
 ### 📱 Socials
 
