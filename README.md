@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=DenizhanErginler&color=6b22b8&style=flat)
 
+C	![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+
 [![Denizhan Erginler's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenizhanErginler&show_icons=true&hide=contribs,prs&bg_color=0,2e1fae,ac25c2&border_color=3c424b&text_color=d1d7e0&title_color=dcc604&icon_color=dcc604)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
